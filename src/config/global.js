@@ -382,14 +382,169 @@ export default {
   },
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Base gravable',
+      significado:
+        'valor sobre el cual se aplica una tarifa para calcular un impuesto o retención.',
+    },
+    {
+      termino: 'Comprobante de contabilidad',
+      significado:
+        'documento interno que resume el registro contable de un hecho económico, indicando cuentas, débitos, créditos, concepto y soporte.',
+    },
+    {
+      termino: 'Crédito',
+      significado:
+        'registro contable ubicado en el lado derecho de una cuenta; aumenta pasivos, patrimonio e ingresos, y disminuye activos, costos y gastos.',
+    },
+    {
+      termino: 'Débito',
+      significado:
+        'registro contable ubicado en el lado izquierdo de una cuenta; aumenta activos, costos y gastos, y disminuye pasivos, patrimonio e ingresos.',
+    },
+    {
+      termino: 'Documento soporte',
+      significado:
+        'evidencia física o electrónica que respalda un hecho económico, como facturas, recibos, contratos o extractos bancarios.',
+    },
+    {
+      termino: 'Hecho económico',
+      significado:
+        'operación que afecta la situación financiera de la empresa y puede medirse en dinero.',
+    },
+    {
+      termino: 'Impuesto',
+      significado:
+        'obligación tributaria generada por una operación económica, según la normativa vigente.',
+    },
+    {
+      termino: 'Medición contable',
+      significado:
+        'proceso mediante el cual se asigna un valor monetario a un hecho económico reconocido.',
+    },
+    {
+      termino: 'Partida doble',
+      significado:
+        'principio contable según el cual todo registro afecta al menos dos cuentas, manteniendo igualdad entre débitos y créditos.',
+    },
+    {
+      termino: 'Reconocimiento contable',
+      significado:
+        'proceso mediante el cual un hecho económico se incorpora formalmente en los registros contables.',
+    },
+    {
+      termino: 'Registro contable',
+      significado:
+        'anotación ordenada de una operación en las cuentas correspondientes, con base en soportes y comprobantes.',
+    },
+    {
+      termino: 'Retención',
+      significado:
+        'valor descontado en una operación como anticipo de un impuesto que debe declararse y pagarse.',
+    },
+    {
+      termino: 'Software contable',
+      significado:
+        'herramienta tecnológica que permite registrar operaciones, organizar información y generar reportes contables.',
+    },
+    {
+      termino: 'Soporte contable',
+      significado:
+        'documento que permite verificar la existencia, valor y naturaleza de una operación registrada.',
+    },
+    {
+      termino: 'Valor económico',
+      significado:
+        'monto monetario asociado a una operación contable, como precio, impuesto, descuento, retención o valor neto.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Ayala Cárdenas, S. I. (2015). CONTABILIDAD BÁSICA GENERAL. Un enfoque administrativo y de control interno. Bogotá: Grafiweb, impresores, publicistas.',
       link: '',
+    },
+    {
+      referencia:
+        'Cámara de Comercio de Bogotá. (s.f.). Información de Sociedades. Cámara de Comercio de Bogotá.',
+      link: 'https://www.ccb.org.co/servicios/crea-tu-empresa/constituye-tu-empresa/informacion-de-sociedades?utm',
+    },
+    {
+      referencia:
+        'Consejo de Normas Internacionales de Contabilidad. (18 de Noviembre de 2010). NIIF para las PYMES. Norma Internacional de Información Financiera para Pequeñas y Medianas Entidades.',
+      link: 'www.mef.gob.pe/contenidos/conta_publ/con_nor_co/vigentes/niif/NIIF_PYMES.pdf?utm',
+    },
+    {
+      referencia:
+        'Contaduría General de la Nación. (14 de Octubre de 2020). Marco Conceptual para la Preparación y Presentación de Información Financiera. Contaduría General de la Nación.',
+      link: 'www.contaduria.gov.co/documents/20127/47343/Anexo%2BResolución%2BNo.%2B167%2Bde%2B2020%2B-%2BMarco%2BConceptual%2BEntidades%2Bde%2BGobierno/2bbd74e0-8d11-9a69-271f-9a32687db8ae?utm',
+    },
+    {
+      referencia:
+        'Contaduría General de la Nación. (26 de Agosto de 2025). NORMA DE PROCESO CONTABLE Y SISTEMA DOCUMENTAL CONTABLE. Contaduría General de la Nación.',
+      link: 'www.contaduria.gov.co/documents/d/guest/ANEXO%2BRESOLUCION%2B222%2BDE%2B2025%2B-%2B20250825_NormProcContable?utm',
+    },
+    {
+      referencia: 'Dirección de Impuesto y Aduanas Nacionale. (s.f.). DIAN.',
+      link: 'https://www.dian.gov.co/Paginas/Vencimientos-tributarios-enero-2026.aspx?utm',
+    },
+    {
+      referencia:
+        'Dirección de Impuesto y Aduanas Nacionales. (s.f.). Documento Soporte. DIAN.',
+      link: 'https://www.dian.gov.co/impuestos/Paginas/Sistema-de-Factura-Electronica/Documento-Soporte-Adquisiciones-No-Obligados.aspx?utm',
+    },
+    {
+      referencia:
+        'Dirección de Impuesto y Aduanas Nacionales. (s.f.). Micrositios Dian. DIAN. ¿Qué es Régimen Simple de Tributación – RST?:',
+      link: 'https://micrositios.dian.gov.co/regimen-simple-tributacion/?utm',
+    },
+    {
+      referencia:
+        'Dirección de Impuesto y Aduanas Nacionales. (s.f.). Sistema de factura Electrónica. Micrositios.dian.co.',
+      link: 'https://micrositios.dian.gov.co/sistema-de-facturacion-electronica/factura-electronica/?utm',
+    },
+    {
+      referencia: 'IFRS Foundation. (2025). IFRS for SMEs Accounting Standard.',
+      link: 'https://www.ifrs.org/issued-standards/ifrs-for-smes/',
+    },
+    {
+      referencia:
+        'IFRS Foundation. (s. f.). International Accounting Standards Board.',
+      link: 'https://www.ifrs.org/groups/international-accounting-standards-board/',
+    },
+    {
+      referencia:
+        'IFRS Foundation. (s. f.). IFRS Accounting Standards Navigator.',
+      link: 'https://www.ifrs.org/issued-standards/list-of-standards/',
+    },
+    {
+      referencia:
+        'Molina Sánchez, H. (21 de Octubre de 2015). DIAN. Convergencia con las Normas Internacionales de Información Financiera (NIIF) en Colombia - Documento de Orientación Técnica 003.',
+      link: 'www.dian.gov.co/fizcalizacioncontrol/herramienconsulta/NIIF/Orientaciones%20CTCP/Documento3_Orientaciones_Tecnica_NIIF_para_las_Pymes_Marco.pdf?utm',
+    },
+    {
+      referencia:
+        'Molina Sánchez, H. (2015). Documento de orientación Técnica 003 - Marco conceptual.',
+      link: '',
+    },
+    {
+      referencia:
+        'Moreno F, J. (5 de Agosto de 2020). Contabilidad Financiera - Contabilidad Básica. S4learning (4ª. Ed.).',
+      link: 'chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://gc.scalahed.com/recursos/files/r161r/w25145w/Contabilidad_basica_4a_ed.pdf',
+    },
+    {
+      referencia:
+        'Presidencia de la República de Colombia. (27 de Marzo de 1971). Decreto 410. Secretaría del Senado.',
+      link: 'http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html',
+    },
+    {
+      referencia:
+        'Ramirez E, H. (2012). Guía NIIF para Pymes - Norma Internacional de Información Financiera para Pymes. unilibre.edu.co:',
+      link: 'https://repository.unilibre.edu.co/bitstream/handle/10901/24681/Libro%20Gu¡a%20NIIF%20para%20Pymes.pdf?utm',
+    },
+    {
+      referencia:
+        'Universidad Nacional de Colombia. (29 de Julio de 2014). Guía Reconocimiento Contable. gerencia.unal.edu.co:',
+      link: 'https://gerencia.unal.edu.co/fileadmin/user_upload/CON_2_GU_reconocimiento_contable_D.pdf',
     },
   ],
   creditos: [
@@ -398,11 +553,12 @@ export default {
       autores: [
         {
           nombre: 'Claudia Johanna Gómez Pérez',
-          cargo: 'Líder del Ecosistema',
+          cargo:
+            'Profesional 06 - Responsable Ecosistema Virtual de Recursos Educativos Digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Olga Constanza Bermúdez',
+          nombre: 'Olga Constanza Bermúdez Jaimes',
           cargo: 'Responsable de línea de producción Huila',
           centro: 'Dirección General',
         },
@@ -412,9 +568,16 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: '',
-          cargo: '',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Joinner Enrique Osorio Martínez',
+          cargo: 'Experto temático',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Paola Alexandra Moya',
+          cargo: 'Evaluadora instruccional',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
@@ -422,20 +585,50 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: '',
+          nombre: 'Jorge David Barbosa Losada',
           cargo: 'Diseñador de contenidos digitales',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: '',
+          nombre: 'Cielo Damaris Angulo Rodríguez',
           cargo: 'Desarrollador <i>full stack</i>',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: '',
-          cargo: '',
+          nombre: 'Alejandro Delgado Acosta',
+          cargo: 'Intérprete lenguaje de señas',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Cristhian Giovanni Gordillo Segura',
+          cargo: 'Intérprete lenguaje de señas',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Juan Pablo Rojas Polania',
+          cargo: 'Animador y productor multimedia',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Carlos Eduardo Garavito Parada',
+          cargo: 'Animador y productor multimedia',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'María Carolina Tamayo López',
+          cargo: 'Locución',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'German Acosta Ramos',
+          cargo: 'Locución',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
@@ -445,13 +638,25 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: '',
+          nombre: 'Ricardo Oliveros Zambrano ',
           cargo: 'Validador de recursos educativos digitales',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: '',
+          nombre: 'Aixa Natalia Sendoya Fernández',
+          cargo: 'Validador de recursos educativos digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Daniel Ricardo Mutis Gómez',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Anyerson Wilfredo Pizo Ossa',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
