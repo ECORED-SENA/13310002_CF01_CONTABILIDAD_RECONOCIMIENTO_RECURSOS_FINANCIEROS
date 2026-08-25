@@ -7,11 +7,15 @@
           span
             i.fas.fa-info
         h1 Introducción
-      .row.justify-content-center.align-items-center           
-        .col-lg-12
+      p.mb-3 La contabilidad permite reconocer la realidad económica de personas, familias, pequeños negocios, comerciantes y empresas mediante la identificación, organización y registro de los hechos económicos derivados de sus actividades. En este proceso, los documentos soporte respaldan las operaciones y facilitan su clasificación, verificación y registro conforme a la normativa aplicable. Por ello, se requiere personal capacitado para organizar la contabilidad e interpretar la información financiera, especialmente en contextos de formalización empresarial.
+      .row.justify-content-center.align-items-center.mb-0
+        .col-xl.mb-4.mb-lg-0
+          .caja-1(data-aos="fade-right").mb-3
+            p.mb-0 El reconocimiento y registro de hechos económicos integra el estudio de los soportes contables, el Código de Comercio, los actos mercantiles, los títulos valores, las sociedades, los libros y papeles comerciales, las normas de reconocimiento, las técnicas de medición financiera, los impuestos y el uso básico de software contable. Estos contenidos permiten determinar cuándo debe reconocerse una operación, cuál documento la respalda, cómo se calcula su valor y de qué manera se registra.
+          p.mb-0 Su aplicación reduce errores, facilita el cumplimiento de obligaciones y fortalece la organización financiera. Además, genera registros claros, verificables y coherentes, necesarios para revisar documentos, comprobar registros, diligenciar libros contables y elaborar reportes financieros.
+        .col-xl-auto.col-md-9(data-aos="fade-left")
           figure
-            .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/vdPrCjWJSHo?si=X4NxENRo3LLXAua_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            img(src='@/assets/curso/temas/intro/img1.jpg', alt='' style="width: 500px").m-auto
 
 </template>
 
