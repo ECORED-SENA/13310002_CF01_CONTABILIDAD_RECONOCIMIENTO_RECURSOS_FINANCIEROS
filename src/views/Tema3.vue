@@ -143,7 +143,7 @@
               h5 Ejemplo aplicado
               br
               br
-              p Una empresa vende mercancía por $ 3.000.000 a crédito. Aunque no recibió efectivo de inmediato, existe un derecho de cobro y un ingreso asociado a la venta realizada. El reconocimiento no depende únicamente del pago, sino del cumplimiento de las condiciones que permiten incorporar el hecho económico en la contabilidad.
+              p Una empresa vende mercancía por $3.000.000 a crédito. Aunque no recibió efectivo de inmediato, existe un derecho de cobro y un ingreso asociado a la venta realizada. El reconocimiento no depende únicamente del pago, sino del cumplimiento de las condiciones que permiten incorporar el hecho económico en la contabilidad.
               br
               br
               p Esta situación evidencia la importancia de aplicar criterios contables y no limitar el registro solo a los movimientos de caja.
@@ -166,7 +166,7 @@
                 li.mb-0
                   span.fa-li
                     i.fas.fa-search-dollar
-                  | #[b Efecto contable:] aumenta el inventario y proveedor.
+                  | #[b Efecto contable:] aumenta el inventario y el proveedor.
             .row(titulo="Venta de contado").ajuste-cajaAcordion.ajuste-vineta
               ul.fa-ul.mb-3
                 li.mb-0
@@ -231,7 +231,7 @@
           .col-xl.caja-2_p
             p El reconocimiento contable depende del momento en que ocurre el hecho económico, como se presenta en el siguiente caso:
             h5 Ejemplo aplicado
-            p.mb-0 Una empresa recibe una factura por servicio de internet correspondiente al mes de abril, por valor de $ 180.000, pero la paga en mayo. El hecho económico corresponde al consumo del servicio en abril. Por tanto, puede reconocerse el gasto y la cuenta por pagar en abril, aunque el pago se realice en el mes siguiente.
+            p.mb-0 Una empresa recibe una factura por servicio de internet correspondiente al mes de abril, por valor de $180.000, pero la paga en mayo. El hecho económico corresponde al consumo del servicio en abril. Por tanto, puede reconocerse el gasto y la cuenta por pagar en abril, aunque el pago se realice en el mes siguiente.
       p.mb-0 Este ejemplo permite diferenciar el reconocimiento del pago. La contabilidad busca reflejar el hecho económico cuando ocurre, no únicamente cuando se mueve el efectivo.
       Separador
       #t_3_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -330,7 +330,7 @@
               h5 Ejemplo aplicado
               br
               br
-              p Una empresa tiene una cuenta por cobrar de $ 5.000.000 a un cliente que presenta dificultades de pago. Aunque inicialmente se reconoció por el valor facturado, posteriormente puede requerirse evaluar si existe deterioro, es decir, si no se espera recuperar la totalidad del valor.
+              p Una empresa tiene una cuenta por cobrar de $5.000.000 a un cliente que presenta dificultades de pago. Aunque inicialmente se reconoció por el valor facturado, posteriormente puede requerirse evaluar si existe deterioro, es decir, si no se espera recuperar la totalidad del valor.
               br
               br
               p La medición posterior permite evitar que los estados financieros presenten cuentas por cobrar con valores que probablemente no se recuperarán. Esto mejora la confiabilidad de la información financiera.
@@ -387,7 +387,7 @@
               p La aplicación conjunta de estos criterios permite establecer el tratamiento contable adecuado, como ocurre en el siguiente caso:
               .caja-1.color-2(data-aos="fade-right")
                 h5 Ejemplo aplicado
-                p Una empresa paga $ 1.500.000 por una licencia de software que utilizará durante un año. Si el pago genera un derecho de uso durante varios meses, puede analizarse si corresponde reconocer un activo o un gasto pagado por anticipado, según la política contable y el marco aplicable. Si se registrara todo como gasto inmediato, podría afectarse el resultado de un solo periodo sin reflejar el beneficio futuro.
+                p Una empresa paga $1.500.000 por una licencia de software que utilizará durante un año. Si el pago genera un derecho de uso durante varios meses, puede analizarse si corresponde reconocer un activo o un gasto pagado por anticipado, según la política contable y el marco aplicable. Si se registrara todo como gasto inmediato, podría afectarse el resultado de un solo periodo sin reflejar el beneficio futuro.
                 p.mb-0 Este análisis evidencia que el tratamiento contable debe responder al fondo económico de la operación y no únicamente a la forma del pago.
             .col-xl-auto.col-md-9(data-aos="fade-left")
               figure
@@ -476,7 +476,7 @@
           .col-xl.caja-2_p
             p La importancia relativa cambia según las características de cada empresa, como se plantea en el siguiente caso:
             h5 Ejemplo aplicado
-            p.mb-0 Una microempresa omite registrar una factura de servicios por $ 600.000. Para una empresa con gastos mensuales de $ 200.000.000, este valor puede no ser significativo en términos relativos; pero para una microempresa con gastos mensuales de $ 3.000.000, representa el 20 % de sus gastos y puede afectar la lectura del resultado.
+            p.mb-0 Una microempresa omite registrar una factura de servicios por $600.000. Para una empresa con gastos mensuales de $200.000.000, este valor puede no ser significativo en términos relativos; pero para una microempresa con gastos mensuales de $3.000.000, representa el 20 % de sus gastos y puede afectar la lectura del resultado.
       p.mb-0 Por eso, la importancia relativa debe analizarse según el tamaño, actividad y realidad económica de la empresa.
       Separador
       #t_3_8.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -626,17 +626,17 @@
                       th.texto-left Medición inicial
                   tbody
                     tr
-                      td.ajuste-border-tabla.texto-left.text-weight-bold Compra mercancía a crédito por $ 5.000.000 más IVA.
+                      td.ajuste-border-tabla.texto-left.text-weight-bold Compra mercancía a crédito por $5.000.000 más IVA.
                       td.ajuste-border-tabla.texto-left Factura de compra
                       td.ajuste-border-tabla.texto-left Inventario, impuesto descontable si aplica y proveedor.
                       td.texto-left Valor de la factura y tributos aplicables.
                     tr.ajuste-color-tabla
-                      td.ajuste-border-tabla.texto-left.text-weight-bold Vende mercancía de contado por $ 3.500.000 más IVA.
+                      td.ajuste-border-tabla.texto-left.text-weight-bold Vende mercancía de contado por $3.500.000 más IVA.
                       td.ajuste-border-tabla.texto-left Factura de venta
                       td.ajuste-border-tabla.texto-left Ingreso, impuesto generado y efectivo.
                       td.texto-left Valor de venta e impuesto.
                     tr
-                      td.ajuste-border-tabla.texto-left.text-weight-bold Recibe préstamo bancario por $ 20.000.000.
+                      td.ajuste-border-tabla.texto-left.text-weight-bold Recibe préstamo bancario por $20.000.000.
                       td.ajuste-border-tabla.texto-left Contrato y desembolso
                       td.ajuste-border-tabla.texto-left Banco y obligación financiera.
                       td.texto-left Valor desembolsado.
@@ -646,7 +646,7 @@
                       td.ajuste-border-tabla.texto-left Gasto de arrendamiento y salida de bancos.
                       td.texto-left Valor pagado o causado.
                     tr
-                      td.ajuste-border-tabla.texto-left.text-weight-bold Compra computador para uso administrativo por $ 2.500.000.
+                      td.ajuste-border-tabla.texto-left.text-weight-bold Compra computador para uso administrativo por $2.500.000.
                       td.ajuste-border-tabla.texto-left Factura de compra
                       td.ajuste-border-tabla.texto-left Activo fijo y salida de bancos o proveedor.
                       td.texto-left Valor de adquisición.

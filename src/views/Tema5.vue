@@ -124,7 +124,7 @@
           .caja-1.color-1.ajuste-2(data-aos="fade-right")
             p La separación de estos valores se aplica en la siguiente operación de venta:
             h5 Ejemplo aplicado
-            p Una empresa vende mercancía por $ 1.000.000 más IVA del 19 %. El valor de la mercancía es $ 1.000.000 y el IVA generado es $ 190.000. El total de la factura será $ 1.190.000, antes de considerar retenciones u otros descuentos.
+            p Una empresa vende mercancía por $1.000.000 más IVA del 19 %. El valor de la mercancía es $1.000.000 y el IVA generado es $190.000. El total de la factura será $1.190.000, antes de considerar retenciones u otros descuentos.
             p.mb-0 La contabilidad debe reconocer por separado el ingreso por ventas y el impuesto generado, porque no tienen la misma naturaleza. El ingreso pertenece a la empresa, mientras que el IVA generado corresponde a una obligación tributaria que debe declararse y pagarse según las condiciones aplicables.
         .col-xl-auto.col-md-9(data-aos="fade-left")
           figure
@@ -150,16 +150,16 @@
           AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="fade-left")
             .row(titulo="Base gravable").ajuste-cajaAcordion.ajuste-vineta
               p Es el valor sobre el cual se aplica la tarifa del impuesto.
-              p.mb-3 #[b Ejemplo:] $ 2.000.000.
+              p.mb-3 #[b Ejemplo:] $2.000.000.
             .row(titulo="Tarifa").ajuste-cajaAcordion.ajuste-vineta
               p Es el porcentaje establecido por la normativa para calcular el impuesto.
               p.mb-3 #[b Ejemplo:] 19 %.
             .row(titulo="Valor del impuesto").ajuste-cajaAcordion.ajuste-vineta
               p Es el resultado de multiplicar la base gravable por la tarifa.
-              p.mb-3 #[b Ejemplo:] $ 380.000.
+              p.mb-3 #[b Ejemplo:] $380.000.
             .row(titulo="Valor total").ajuste-cajaAcordion.ajuste-vineta
               p Corresponde a la suma de la base gravable y el impuesto, cuando aplique.
-              p.mb-3 #[b Ejemplo:] $ 2.380.000.
+              p.mb-3 #[b Ejemplo:] $2.380.000.
             .row(titulo="Valor neto").ajuste-cajaAcordion.ajuste-vineta
               p Es el valor final por pagar o recibir después de aplicar retenciones, descuentos u otros conceptos.
               p.mb-3 #[b Ejemplo:] total de la operación menos las retenciones aplicables.
@@ -192,7 +192,7 @@
               | 
               p.mb-0 Total de la factura = $800.000 + $152.000 = $952.000
           br
-          p El valor de $ 800.000 corresponde a la base gravable, $ 152.000 al impuesto y $ 952.000 al total antes de retenciones. Este cálculo debe estar soportado por la factura o documento correspondiente.
+          p El valor de $800.000 corresponde a la base gravable, $152.000 al impuesto y $952.000 al total antes de retenciones. Este cálculo debe estar soportado por la factura o documento correspondiente.
       Separador
       #t_5_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2 5.3 Clasificación general de impuestos relacionados con operaciones contables
@@ -322,22 +322,22 @@
                   tbody
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Valor de la venta antes de IVA
-                      td.texto-left $ 2.000.000
+                      td.texto-left $2.000.000
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Tarifa de IVA
                       td.texto-left 19 %
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold IVA generado
-                      td.texto-left $ 380.000
+                      td.texto-left $380.000
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Total factura
-                      td.texto-left $ 2.380.000
+                      td.texto-left $2.380.000
           .row.justify-content-center.align-items-center.mb-0
             .col-xl
               .caja-1.color-3.mb-4.mb-lg-0.ajuste-2(data-aos="fade-right")
                 p A continuación, se realiza un ejemplo:
                 h5 Ejemplo aplicado
-                p Una empresa vende mercancía gravada por $ 2.000.000 más IVA del 19 %. El registro contable debe reconocer el ingreso por $ 2.000.000, el IVA generado por $ 380.000 y el total por cobrar o recibir por $ 2.380.000.
+                p Una empresa vende mercancía gravada por $2.000.000 más IVA del 19 %. El registro contable debe reconocer el ingreso por $2.000.000, el IVA generado por $380.000 y el total por cobrar o recibir por $2.380.000.
                 p Registro básico de venta de contado:
                 table.color-tabla-sencilla(data-aos="zoom-in")
                   thead
@@ -348,16 +348,16 @@
                   tbody
                     tr
                       td.texto-left Caja o bancos
-                      td.texto-left $ 2.380.000
+                      td.texto-left $2.380.000
                       td.texto-left -
                     tr
                       td.texto-left Ingresos por ventas
                       td.texto-left -
-                      td.texto-left $ 2.000.000
+                      td.texto-left $2.000.000
                     tr
                       td.texto-left IVA generado
                       td.texto-left -
-                      td.texto-left $ 380.000
+                      td.texto-left $380.000
             .col-xl-auto.col-md-9(data-aos="fade-left")
               figure
                 img(src='@/assets/curso/temas/t5/img16.jpg', alt='' style="width: 500px").m-auto
@@ -431,7 +431,7 @@
           .caja-1.color-4.ajuste-6(data-aos="fade-right")
             p El procedimiento anterior se aplica en el siguiente pago por servicios:
             h5 Ejemplo aplicado
-            p Una empresa recibe una factura de servicios por $ 1.000.000 más IVA de $ 190.000, para un total de $ 1.190.000. Si procede una retención en la fuente del 4 % sobre la base antes de IVA, el cálculo sería:
+            p Una empresa recibe una factura de servicios por $1.000.000 más IVA de $190.000, para un total de $1.190.000. Si procede una retención en la fuente del 4 % sobre la base antes de IVA, el cálculo sería:
             p.mb-0 Retención = $1.000.000 × 4 %
             p.mb-0 Retención = $40.000
             p Valor neto por pagar = $1.190.000 - $40.000 = $1.150.000
@@ -488,7 +488,7 @@
             .col-xl
               .caja-1.color-3.mb-4.mb-lg-0.ajuste-2(data-aos="fade-right")
                 h5 Ejemplo aplicado
-                p Una empresa compra mercancía por $ 1.500.000 más IVA del 19 %, a crédito. El IVA es $ 285.000 y el total de la factura es $ 1.785.000. El registro básico podría ser:
+                p Una empresa compra mercancía por $1.500.000 más IVA del 19 %, a crédito. El IVA es $285.000 y el total de la factura es $1.785.000. El registro básico podría ser:
                 table.color-tabla-sencilla.color-2(data-aos="zoom-in")
                   thead
                     tr
@@ -498,11 +498,11 @@
                   tbody
                     tr
                       td.texto-left Inventarios
-                      td.texto-left $ 1.500.000
+                      td.texto-left $1.500.000
                       td.texto-left -
                     tr
                       td.texto-left IVA descontable
-                      td.texto-left $ 285.000
+                      td.texto-left $285.000
                       td.texto-left -
                     tr
                       td.texto-left Proveedores
@@ -793,7 +793,7 @@
               h5 Ejemplo aplicado
               br
               br
-              p Una factura de compra por $ 900.000 se registra por error con fecha del mes siguiente. Aunque el valor sea correcto, el gasto o inventario quedará reconocido en un periodo diferente al que corresponde, afectando reportes mensuales, impuestos y conciliaciones.
+              p Una factura de compra por $900.000 se registra por error con fecha del mes siguiente. Aunque el valor sea correcto, el gasto o inventario quedará reconocido en un periodo diferente al que corresponde, afectando reportes mensuales, impuestos y conciliaciones.
               br
               br
               p Este tipo de error puede evitarse revisando fecha, periodo y soporte antes de guardar el comprobante en el sistema.
@@ -820,23 +820,23 @@
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Base del servicio
                       td.ajuste-border-tabla.texto-left Dato de la factura
-                      td.texto-left $ 1.200.000
+                      td.texto-left $1.200.000
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold IVA 19 %
-                      td.ajuste-border-tabla.texto-left $ 1.200.000 × 19 %
-                      td.texto-left $ 228.000
+                      td.ajuste-border-tabla.texto-left $1.200.000 × 19 %
+                      td.texto-left $228.000
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Total, factura
-                      td.ajuste-border-tabla.texto-left $ 1.200.000 + $ 228.000
-                      td.texto-left $ 1.428.000
+                      td.ajuste-border-tabla.texto-left $1.200.000 + $228.000
+                      td.texto-left $1.428.000
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Retención en la fuente 4 %
-                      td.ajuste-border-tabla.texto-left $ 1.200.000 × 4 %
-                      td.texto-left $ 48.000
+                      td.ajuste-border-tabla.texto-left $1.200.000 × 4 %
+                      td.texto-left $48.000
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Valor neto por pagar
-                      td.ajuste-border-tabla.texto-left $ 1.428.000 - $ 48.000
-                      td.texto-left $ 1.380.000
+                      td.ajuste-border-tabla.texto-left $1.428.000 - $48.000
+                      td.texto-left $1.380.000
           p.mb-5 La siguiente tabla presenta el asiento básico de la operación, diferenciando gasto, IVA, retención y valor por pagar:
       .bg-2
         .px-5
@@ -856,24 +856,24 @@
                   tbody
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Gasto de mantenimiento
-                      td.ajuste-border-tabla.texto-left $ 1.200.000
+                      td.ajuste-border-tabla.texto-left $1.200.000
                       td.texto-left -
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold IVA descontable
-                      td.ajuste-border-tabla.texto-left $ 228.000
+                      td.ajuste-border-tabla.texto-left $228.000
                       td.texto-left -
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Retención en la fuente por pagar
                       td.ajuste-border-tabla.texto-left -
-                      td.texto-left $ 48.000
+                      td.texto-left $48.000
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Proveedores o cuentas por pagar
                       td.ajuste-border-tabla.texto-left -
-                      td.texto-left $ 1.380.000
+                      td.texto-left $1.380.000
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Total
-                      td.ajuste-border-tabla.texto-left $ 1.428.000
-                      td.texto-left  $ 1.428.000
+                      td.ajuste-border-tabla.texto-left $1.428.000
+                      td.texto-left  $1.428.000
           p.mb-5 A continuación, se organiza la información que debe registrarse o verificarse en el #[i software] contable:
       .bg-1
         .px-5
@@ -904,16 +904,16 @@
                       td.texto-left Servicio de mantenimiento
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Base gravable
-                      td.texto-left $ 1.200.000
+                      td.texto-left $1.200.000
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold IVA descontable
-                      td.texto-left $ 228.000
+                      td.texto-left $228.000
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Retención en la fuente
-                      td.texto-left $ 48.000
+                      td.texto-left $48.000
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Valor neto por pagar
-                      td.texto-left $ 1.380.000
+                      td.texto-left $1.380.000
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Medio de pago
                       td.texto-left Transferencia bancaria

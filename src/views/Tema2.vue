@@ -90,7 +90,7 @@
                   .carrusel_p
                     h4.mb-3.estilo-text Medir
                     p.text-center Respalda el valor económico asignado a la operación.
-                    p.mb-0.text-center #[b Ejemplo:] recibo de caja por $ 500.000.
+                    p.mb-0.text-center #[b Ejemplo:] recibo de caja por $500.000.
                 .tarjeta.color-acento-botones
                   .row.justify-content-center.mb-3
                     .col-12
@@ -120,7 +120,7 @@
         .col-xl.mb-4.mb-lg-0
           .caja-1.color-1.ajuste-2(data-aos="fade-right")
             h5 Ejemplo aplicado
-            p Una empresa paga el arriendo del local por $ 1.500.000 mediante transferencia bancaria. Para respaldar el registro contable, debe conservar el documento que demuestra el cobro del arrendador y el comprobante de la transferencia. Estos soportes permiten verificar el valor, la fecha, el tercero beneficiario y el concepto del pago.
+            p Una empresa paga el arriendo del local por $1.500.000 mediante transferencia bancaria. Para respaldar el registro contable, debe conservar el documento que demuestra el cobro del arrendador y el comprobante de la transferencia. Estos soportes permiten verificar el valor, la fecha, el tercero beneficiario y el concepto del pago.
             p.mb-0 Si la empresa registra el gasto sin conservar el soporte, el asiento contable puede quedar sin respaldo suficiente. Esto dificulta la verificación posterior y puede afectar la confiabilidad de la información registrada.
         .col-xl-auto.col-md-9(data-aos="fade-left")
           figure
@@ -250,7 +250,7 @@
               p.mb-3 #[b Ejemplo:] compra de papelería.
             .row(titulo="Valor").ajuste-cajaAcordion.ajuste-vineta
               p Medición económica de la operación.
-              p.mb-3 #[b Ejemplo:] $ 850.000.
+              p.mb-3 #[b Ejemplo:] $850.000.
       .row.align-items-center.mb-5
         .col-xl
           AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="fade-right")
@@ -277,7 +277,7 @@
           .col-xl.caja-2_p
             p A continuación, se presenta un ejemplo aplicado:
             h5 Ejemplo aplicado
-            p Una factura de compra que no identifica claramente al proveedor no presenta fecha o no permite conocer el concepto adquirido puede generar dificultades en el registro contable. Antes de contabilizarla, se debe verificar si el documento cumple los requisitos necesarios para respaldar la operación.
+            p Una factura de compra que no identifica claramente al proveedor, no presenta fecha o no permite conocer el concepto adquirido puede generar dificultades en el registro contable. Antes de contabilizarla, se debe verificar si el documento cumple los requisitos necesarios para respaldar la operación.
             p.mb-0 La revisión evita registrar valores sin claridad o clasificar de manera incorrecta un costo, gasto o activo.
       Separador
       #t_2_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -324,7 +324,7 @@
                   .col-lg.mb-4.mb-lg-0
                     h3 Indicar el valor
                     p Registrar el valor total de la operación y los impuestos o retenciones aplicables.
-                    p.mb-0 #[b Ejemplo:] $ 1.200.000.
+                    p.mb-0 #[b Ejemplo:] $1.200.000.
                   .col-auto(data-aos="zoom-in")
                     figure
                       img(src='@/assets/curso/temas/t2/img31.png', alt='' style="width: 300px").m-auto
@@ -812,7 +812,7 @@
                     i.fas.fa-search-dollar
                   | #[b Actas:] documentan decisiones societarias o administrativas.
             .row(titulo="Documentos bancarios").ajuste-cajaAcordion.ajuste-vineta
-              p Dentro de los documentos bancarias está el siguiente:
+              p Dentro de los documentos bancarios está el siguiente:
               p.mb-3 #[b Extractos bancarios:] permiten verificar y conciliar los movimientos financieros.
       .bloque-texto-g.bloque-texto-g--inverso.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in")
         .bloque-texto-g__img(

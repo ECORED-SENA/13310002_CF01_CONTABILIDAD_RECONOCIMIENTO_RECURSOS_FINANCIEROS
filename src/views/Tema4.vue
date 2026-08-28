@@ -57,7 +57,7 @@
                   .carrusel_p
                     h4.mb-3.estilo-text Valor
                     p #[b Pregunta orientadora:] ¿Por cuánto se registra?
-                    p.mb-0 #[b Ejemplo:] $ 2.000.000
+                    p.mb-0 #[b Ejemplo:] $2.000.000
                 .tarjeta.color-acento-botones
                   .row.justify-content-center.mb-3
                     .col-12
@@ -149,7 +149,7 @@
               .caja-1.color-1(data-aos="fade-left")
                 p La igualdad entre débitos y créditos se aplica en el siguiente caso:
                 h5 Ejemplo aplicado
-                p Una empresa recibe $ 5.000.000 por una venta de contado. En esta operación aumenta bancos o caja, porque ingresa dinero, y aumenta el ingreso por ventas. Según la regla de la partida doble, el aumento del activo se registra en el débito y el aumento del ingreso se registra en el crédito. Registro básico:
+                p Una empresa recibe $5.000.000 por una venta de contado. En esta operación aumenta bancos o caja, porque ingresa dinero, y aumenta el ingreso por ventas. Según la regla de la partida doble, el aumento del activo se registra en el débito y el aumento del ingreso se registra en el crédito. Registro básico:
                 table.color-tabla-sencilla(data-aos="zoom-in").mb-3
                   thead
                     tr
@@ -159,12 +159,12 @@
                   tbody
                     tr
                       td.texto-left Caja o bancos
-                      td.texto-left $ 5.000.000
+                      td.texto-left $5.000.000
                       td.texto-left -
                     tr
                       td.texto-left Ingresos por ventas
                       td.texto-left -
-                      td.texto-left $ 5.000.000
+                      td.texto-left $5.000.000
                 p.mb-0 El total de débitos y créditos es igual, por lo que el asiento mantiene el equilibrio contable.
       p.mb-5 Toda operación debe mantener la igualdad entre débitos y créditos. El siguiente video permite identificar las cuentas afectadas y aplicar la partida doble.
       figure(data-aos="zoom-in").mb-0
@@ -230,7 +230,7 @@
               .col-xl.caja-2_p
                 p Para mayor comprensión del tema, se desarrolla el siguiente ejemplo:
                 h5 Ejemplo aplicado
-                p Una empresa adquiere un préstamo bancario por $ 10.000.000. En este hecho económico aumenta bancos, que es un activo, y aumenta la obligación financiera, que es un pasivo. Por tanto, bancos se debita y obligaciones financieras se acredita.
+                p Una empresa adquiere un préstamo bancario por $10.000.000. En este hecho económico aumenta bancos, que es un activo, y aumenta la obligación financiera, que es un pasivo. Por tanto, bancos se debita y obligaciones financieras se acredita.
                 table.color-tabla-sencilla.color-3(data-aos="zoom-in").mb-3
                   thead
                     tr
@@ -240,12 +240,12 @@
                   tbody
                     tr
                       td.texto-left Bancos
-                      td.texto-left $ 10.000.000
+                      td.texto-left $10.000.000
                       td.texto-left -
                     tr
                       td.texto-left Obligaciones financieras
                       td.texto-left -
-                      td.texto-left $ 10.000.000
+                      td.texto-left $10.000.000
                 p.mb-0 El asiento refleja que la empresa recibió recursos, pero también adquirió una obligación que deberá pagar.
       Separador
       #t_4_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -372,7 +372,7 @@
                     li.mb-0
                       span.fa-li
                         i.fas.fa-search-dollar
-                      | #[b Ejemplo:] compra por $ 2.000.000.
+                      | #[b Ejemplo:] compra por $2.000.000.
                 .col-xl-6
                   figure
                     img(src='@/assets/curso/temas/t4/img20.png', alt='' style="max-width: 500px").m-auto
@@ -431,7 +431,7 @@
           h5 Ejemplo aplicado
           br
           br
-          p Una empresa paga una factura de servicios por $ 600.000. El soporte puede ser la factura del servicio y el comprobante bancario. El comprobante de contabilidad debe indicar la cuenta de gasto, la cuenta de bancos, el valor, la fecha y el concepto. De esta manera, el hecho económico queda listo para registrarse en libros o en el sistema contable.
+          p Una empresa paga una factura de servicios por $600.000. El soporte puede ser la factura del servicio y el comprobante bancario. El comprobante de contabilidad debe indicar la cuenta de gasto, la cuenta de bancos, el valor, la fecha y el concepto. De esta manera, el hecho económico queda listo para registrarse en libros o en el sistema contable.
       Separador
       #t_4_6.titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2 4.6 Diligenciamiento de comprobantes de contabilidad
@@ -458,9 +458,9 @@
             .row(titulo="Cuenta contable").ajuste-cajaAcordion.ajuste-vineta
               p.mb-3 Identifica la cuenta afectada. Ejemplo: Inventarios.
             .row(titulo="Débito").ajuste-cajaAcordion.ajuste-vineta
-              p.mb-3 Registra el valor debitado. Ejemplo: $ 2.000.000.
+              p.mb-3 Registra el valor debitado. Ejemplo: $2.000.000.
             .row(titulo="Crédito").ajuste-cajaAcordion.ajuste-vineta
-              p.mb-3 Registra el valor acreditado. Ejemplo: $ 2.000.000.
+              p.mb-3 Registra el valor acreditado. Ejemplo: $2.000.000.
             .row(titulo="Elaboró y aprobó").ajuste-cajaAcordion.ajuste-vineta
               p.mb-3 Control interno. Ejemplo: Auxiliar contable y administrador.
         .col-xl-auto(data-aos="fade-left")
@@ -469,9 +469,9 @@
       .row.justify-content-center.align-items-center.mb-0
         .col-xl.mb-4.mb-lg-0
           .caja-1.color-4.ajuste-4(data-aos="fade-right")
-            p Par comprender este tema, se presenta el siguiente ejemplo:
+            p Para comprender este tema, se presenta el siguiente ejemplo:
             h5 Ejemplo aplicado
-            p.mb-0 Si una empresa compra mercancía a crédito por $ 2.000.000, el comprobante debe indicar la factura del proveedor, la fecha, el concepto, la cuenta de inventarios en el débito y la cuenta de proveedores en el crédito. Si el comprobante está incompleto, será más difícil verificar el origen del registro o corregir errores posteriores.
+            p.mb-0 Si una empresa compra mercancía a crédito por $2.000.000, el comprobante debe indicar la factura del proveedor, la fecha, el concepto, la cuenta de inventarios en el débito y la cuenta de proveedores en el crédito. Si el comprobante está incompleto, será más difícil verificar el origen del registro o corregir errores posteriores.
         .col-xl-auto.col-md-9(data-aos="fade-left")
           figure
             img(src='@/assets/curso/temas/t4/img27.jpg', alt='' style="width: 500px").m-auto
@@ -520,7 +520,7 @@
               .caja-1.color-3.mb-4.mb-lg-0(data-aos="fade-right")
                 p El registro de una compra a crédito se aplica en el siguiente caso:
                 h5 Ejemplo aplicado
-                p Una empresa compra mercancía a crédito por $ 3.000.000. El registro básico sería:
+                p Una empresa compra mercancía a crédito por $3.000.000. El registro básico sería:
                 table.color-tabla-sencilla(data-aos="zoom-in").mb-3
                   thead
                     tr
@@ -530,12 +530,12 @@
                   tbody
                     tr
                       td.texto-left Inventarios
-                      td.texto-left $ 3.000.000
+                      td.texto-left $3.000.000
                       td.texto-left -
                     tr
                       td.texto-left Proveedores
                       td.texto-left -
-                      td.texto-left $ 3.000.000
+                      td.texto-left $3.000.000
                 p.mb-0 El asiento refleja que la empresa recibió mercancía, pero aún no la pagó. Por tanto, se reconoce tanto el recurso como la obligación.
             .col-xl-auto.col-md-9(data-aos="fade-left")
               figure
@@ -636,7 +636,7 @@
         .col-xl
           .caja-1.color-1.ajuste-5(data-aos="fade-left")
             h5 Ejemplo aplicado
-            p Una empresa vende mercancía de contado por $ 4.000.000. El registro básico del ingreso sería:
+            p Una empresa vende mercancía de contado por $4.000.000. El registro básico del ingreso sería:
             table.color-tabla-sencilla(data-aos="zoom-in").mb-3
               thead
                 tr
@@ -646,13 +646,13 @@
               tbody
                 tr
                   td.texto-left Caja o bancos
-                  td.texto-left $ 4.000.000
+                  td.texto-left $4.000.000
                   td.texto-left -
                 tr
                   td.texto-left Ingresos por ventas
                   td.texto-left -
-                  td.texto-left $ 4.000.000
-            p Si la mercancía vendida tenía un costo de $ 2.500.000, también se registra:
+                  td.texto-left $4.000.000
+            p Si la mercancía vendida tenía un costo de $2.500.000, también se registra:
             table.color-tabla-sencilla(data-aos="zoom-in").mb-3
               thead
                 tr
@@ -662,12 +662,12 @@
               tbody
                 tr
                   td.texto-left Costo de ventas
-                  td.texto-left $ 2.500.000
+                  td.texto-left $2.500.000
                   td.texto-left -
                 tr
                   td.texto-left Inventarios
                   td.texto-left -
-                  td.texto-left $ 2.500.000
+                  td.texto-left $2.500.000
       p.mb-0.text-center Así, la contabilidad refleja el ingreso y el costo asociado a la operación.
       Separador
       #t_4_9.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -759,7 +759,7 @@
           .col-xl.caja-2_p
             p La causa del movimiento determina las cuentas que deben registrarse:
             h5 Ejemplo aplicado
-            p Una empresa recibe $ 1.500.000 de un cliente que tenía una factura pendiente. Este recaudo no representa una nueva venta, porque el ingreso ya se reconoció cuando se emitió la factura. El registro correcto disminuye la cuenta por cobrar y aumenta bancos.
+            p Una empresa recibe $1.500.000 de un cliente que tenía una factura pendiente. Este recaudo no representa una nueva venta, porque el ingreso ya se reconoció cuando se emitió la factura. El registro correcto disminuye la cuenta por cobrar y aumenta bancos.
             table.color-tabla-sencilla.color-3(data-aos="zoom-in").mb-3
               thead
                 tr
@@ -769,12 +769,12 @@
               tbody
                 tr
                   td.texto-left Bancos
-                  td.texto-left $ 1.500.000
+                  td.texto-left $1.500.000
                   td.texto-left -
                 tr
                   td.texto-left Cuentas por cobrar
                   td.texto-left -
-                  td.texto-left $ 1.500.000
+                  td.texto-left $1.500.000
             p.mb-0 El asiento presenta que la empresa recuperó cartera, no que generó un nuevo ingreso.
       Separador
       #t_4_10.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -825,7 +825,7 @@
               .caja-1.color-2(data-aos="fade-left")
                 p A continuación, se desarrolla un ejemplo:
                 h5 Ejemplo aplicado
-                p Una empresa paga $ 900.000 por publicidad en redes sociales. Este valor no corresponde al costo directo de la mercancía vendida, sino a un gasto de ventas, porque está relacionado con la promoción de los productos.
+                p Una empresa paga $900.000 por publicidad en redes sociales. Este valor no corresponde al costo directo de la mercancía vendida, sino a un gasto de ventas, porque está relacionado con la promoción de los productos.
                 table.color-tabla-sencilla.color-3(data-aos="zoom-in").mb-3
                   thead
                     tr
@@ -835,12 +835,12 @@
                   tbody
                     tr
                       td.texto-left Gasto de publicidad
-                      td.texto-left $ 900.000
+                      td.texto-left $900.000
                       td.texto-left -
                     tr
                       td.texto-left Bancos
                       td.texto-left -
-                      td.texto-left $ 900.000
+                      td.texto-left $900.000
                 p.mb-0 La clasificación adecuada permite que los reportes muestren correctamente el comportamiento de costos y gastos.
       Separador
       #t_4_11.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -918,27 +918,27 @@
                   tbody
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold 02/05
-                      td.ajuste-border-tabla.texto-left Aporte de socio en efectivo por $ 10.000.000
+                      td.ajuste-border-tabla.texto-left Aporte de socio en efectivo por $10.000.000
                       td.texto-left Comprobante bancario y acta o documento soporte
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold 04/05
-                      td.ajuste-border-tabla.texto-left Compra mercancía a crédito por $ 4.000.000
+                      td.ajuste-border-tabla.texto-left Compra mercancía a crédito por $4.000.000
                       td.texto-left Factura de proveedor
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold 08/05
-                      td.ajuste-border-tabla.texto-left Vende mercancía de contado por $ 3.000.000
+                      td.ajuste-border-tabla.texto-left Vende mercancía de contado por $3.000.000
                       td.texto-left Factura de venta
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold 10/05
-                      td.ajuste-border-tabla.texto-left Paga arriendo del local por $ 1.200.000
+                      td.ajuste-border-tabla.texto-left Paga arriendo del local por $1.200.000
                       td.texto-left Recibo o factura y comprobante de pago
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold 15/05
-                      td.ajuste-border-tabla.texto-left Recauda cartera de cliente por $ 800.000
+                      td.ajuste-border-tabla.texto-left Recauda cartera de cliente por $800.000
                       td.texto-left Recibo de caja o comprobante bancario
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold 20/05
-                      td.ajuste-border-tabla.texto-left Paga a proveedor $ 1.500.000
+                      td.ajuste-border-tabla.texto-left Paga a proveedor $1.500.000
                       td.texto-left Comprobante de egreso y soporte bancario
           p.mb-5 Los registros contables derivados de las operaciones planteadas son los siguientes:
       .bg-1
@@ -961,27 +961,27 @@
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Aporte de socio
                       td.ajuste-border-tabla.texto-left Bancos
-                      td.ajuste-border-tabla.texto-left $ 10.000.000
+                      td.ajuste-border-tabla.texto-left $10.000.000
                       td.texto-left -
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Aporte de socio
                       td.ajuste-border-tabla.texto-left Capital
                       td.ajuste-border-tabla.texto-left -
-                      td.texto-left $ 10.000.000
+                      td.texto-left $10.000.000
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Compra a crédito
                       td.ajuste-border-tabla.texto-left Inventarios
-                      td.ajuste-border-tabla.texto-left $ 4.000.000
+                      td.ajuste-border-tabla.texto-left $4.000.000
                       td.texto-left -
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Compra a crédito
                       td.ajuste-border-tabla.texto-left Proveedores
                       td.ajuste-border-tabla.texto-left -
-                      td.texto-left $ 4.000.000
+                      td.texto-left $4.000.000
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Venta de contado
                       td.ajuste-border-tabla.texto-left Caja o bancos
-                      td.ajuste-border-tabla.texto-left $ 3.000.000
+                      td.ajuste-border-tabla.texto-left $3.000.000
                       td.texto-left -
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Venta de contado
@@ -991,33 +991,33 @@
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Pago de arriendo
                       td.ajuste-border-tabla.texto-left Gasto de arriendo
-                      td.ajuste-border-tabla.texto-left $ 1.200.000
+                      td.ajuste-border-tabla.texto-left $1.200.000
                       td.texto-left -
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Pago de arriendo
                       td.ajuste-border-tabla.texto-left Bancos
                       td.ajuste-border-tabla.texto-left -
-                      td.texto-left $ 1.200.000
+                      td.texto-left $1.200.000
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Recaudo de cartera
                       td.ajuste-border-tabla.texto-left Bancos
-                      td.ajuste-border-tabla.texto-left $ 800.000
+                      td.ajuste-border-tabla.texto-left $800.000
                       td.texto-left -
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Recaudo de cartera
                       td.ajuste-border-tabla.texto-left Cuentas por cobrar
                       td.ajuste-border-tabla.texto-left -
-                      td.texto-left $ 800.000
+                      td.texto-left $800.000
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Pago a proveedor
                       td.ajuste-border-tabla.texto-left Proveedores
-                      td.ajuste-border-tabla.texto-left $ 1.500.000
+                      td.ajuste-border-tabla.texto-left $1.500.000
                       td.texto-left -
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Pago a proveedor
                       td.ajuste-border-tabla.texto-left Bancos
                       td.ajuste-border-tabla.texto-left -
-                      td.texto-left $ 1.500.000
+                      td.texto-left $1.500.000
           .bloque-texto-g.bloque-texto-g--inverso.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in")
             .bloque-texto-g__img(
               :style="{ backgroundImage: `url(${require_src('@/assets/curso/temas/t4/img45.jpg')})` }")

@@ -62,7 +62,7 @@
               .col-xl.caja-2_p
                 p Para comprender este tema, se desarrollará el siguiente ejemplo:
                 h5 Ejemplo aplicado
-                p Una papelería compra mercancía por $ 2.000.000 a crédito. En esta operación se identifican dos efectos: aumenta el inventario, porque la empresa recibe mercancía para vender, y aumenta la obligación con proveedores, porque aún no ha pagado la compra. La contabilidad permite reconocer ambos efectos en el mismo hecho económico.
+                p Una papelería compra mercancía por $2.000.000 a crédito. En esta operación se identifican dos efectos: aumenta el inventario, porque la empresa recibe mercancía para vender, y aumenta la obligación con proveedores, porque aún no ha pagado la compra. La contabilidad permite reconocer ambos efectos en el mismo hecho económico.
                 p.mb-0 Si la papelería solo registrara la entrada de mercancía y omitiera la deuda, la información financiera quedaría incompleta. Por eso, el registro contable debe reflejar tanto el recurso recibido como la obligación adquirida.
       Separador
       #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -196,7 +196,7 @@
             .row(titulo="Relación con el ente económico").ajuste-cajaAcordion.ajuste-vineta
               p.mb-3 La operación debe corresponder a la actividad de la empresa. Por ejemplo, la compra de mercancía destinada a la venta.
             .row(titulo="Medición monetaria").ajuste-cajaAcordion.ajuste-vineta
-              p.mb-3 El valor de la operación debe poder expresarse en dinero. Por ejemplo, una venta por $ 1.500.000.
+              p.mb-3 El valor de la operación debe poder expresarse en dinero. Por ejemplo, una venta por $1.500.000.
             .row(titulo="Soporte documental").ajuste-cajaAcordion.ajuste-vineta
               p.mb-3 El hecho debe estar respaldado por una factura, recibo, contrato, comprobante u otro documento válido.
             .row(titulo="Efecto financiero").ajuste-cajaAcordion.ajuste-vineta
@@ -215,7 +215,7 @@
                       img(src='@/assets/curso/temas/t1/img12.png', alt="" ).m-auto
                   h4.text-center Cotización recibida
                   .caja-3_p
-                    p Una empresa recibe una cotización por $ 3.000.000. Aunque contiene un valor, no representa un hecho económico porque todavía no se ha realizado la compra ni adquirido una obligación.
+                    p Una empresa recibe una cotización por $3.000.000. Aunque contiene un valor, no representa un hecho económico porque todavía no se ha realizado la compra ni adquirido una obligación.
                     p.mb-0 #[b Resultado:] no genera registro contable.
             .col-xl-4.col-md-9(data-aos="fade-left")
               .caja-3.h-100
@@ -303,7 +303,7 @@
               .row.justify-content-center.align-items-center
                 .col-xl-6.mb-4
                   h4 Ejemplo aplicado
-                  p.mb-0 Una empresa vende mercancía de contado por $ 5.000.000. Este hecho económico corresponde a una #[b operación comercial] y produce varios efectos contables: aumenta el efectivo, genera un ingreso, disminuye el inventario y reconoce el costo de la mercancía vendida.
+                  p.mb-0 Una empresa vende mercancía de contado por $5.000.000. Este hecho económico corresponde a una #[b operación comercial] y produce varios efectos contables: aumenta el efectivo, genera un ingreso, disminuye el inventario y reconoce el costo de la mercancía vendida.
                 .col-xl-6
                   figure
                     img(src='@/assets/curso/temas/t1/img16.png', alt='' style="max-width: 500px").m-auto
@@ -649,22 +649,22 @@
                       th.texto-left Efecto contable inicial
                   tbody
                     tr.ajuste-color-tabla
-                      td.ajuste-border-tabla.texto-left.text-weight-bold Solicita cotización de mercancía por $ 4.000.000.
+                      td.ajuste-border-tabla.texto-left.text-weight-bold Solicita cotización de mercancía por $4.000.000.
                       td.ajuste-border-tabla.texto-left No
                       td.ajuste-border-tabla.texto-left Cotización
                       td.texto-left No genera registro contable.
                     tr
-                      td.ajuste-border-tabla.texto-left.text-weight-bold Compra mercancía a crédito por $ 4.000.000.
+                      td.ajuste-border-tabla.texto-left.text-weight-bold Compra mercancía a crédito por $4.000.000.
                       td.ajuste-border-tabla.texto-left Sí
                       td.ajuste-border-tabla.texto-left Factura de compra
                       td.texto-left Aumenta inventario y proveedores.
                     tr.ajuste-color-tabla
-                      td.ajuste-border-tabla.texto-left.text-weight-bold Vende mercancía de contado por $ 2.500.000.
+                      td.ajuste-border-tabla.texto-left.text-weight-bold Vende mercancía de contado por $2.500.000.
                       td.ajuste-border-tabla.texto-left Sí
                       td.ajuste-border-tabla.texto-left Factura de venta o documento equivalente.
                       td.texto-left Aumenta efectivo e ingresos.
                     tr
-                      td.ajuste-border-tabla.texto-left.text-weight-bold Paga arriendo del local por $ 1.200.000.
+                      td.ajuste-border-tabla.texto-left.text-weight-bold Paga arriendo del local por $1.200.000.
                       td.ajuste-border-tabla.texto-left Sí
                       td.ajuste-border-tabla.texto-left Recibo, factura o comprobante de pago.
                       td.texto-left Reconoce gasto y salida de efectivo.
@@ -679,7 +679,7 @@
                       td.ajuste-border-tabla.texto-left Contrato
                       td.texto-left Se analiza si genera obligación reconocible.
                     tr.ajuste-color-tabla
-                      td.ajuste-border-tabla.texto-left.text-weight-bold Paga una deuda a proveedores. por $ 800.000.
+                      td.ajuste-border-tabla.texto-left.text-weight-bold Paga una deuda a proveedores. por $800.000.
                       td.ajuste-border-tabla.texto-left Sí
                       td.ajuste-border-tabla.texto-left Comprobante de egreso y soporte de pago.
                       td.texto-left Disminuye banco y proveedores.
