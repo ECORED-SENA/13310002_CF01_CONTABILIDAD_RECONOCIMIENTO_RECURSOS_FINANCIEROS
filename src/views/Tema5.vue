@@ -628,20 +628,20 @@
         .bloque-texto-g__img(
           :style="{ backgroundImage: `url(${require_src('@/assets/curso/temas/t5/img33.jpg')})` }")
         .bloque-texto-g__texto.p-4
-          p Estas funciones intervienen en el registro de una compra mediante el software contable:
+          p Estas funciones intervienen en el registro de una compra mediante el #[i software] contable:
           br
           br
           h5 Ejemplo aplicado
           br
           br
-          p Una empresa registra una factura de compra en el software contable. El sistema puede calcular el IVA, generar la cuenta por pagar y actualizar el inventario o gasto correspondiente. No obstante, antes de guardar el registro se debe verificar que el proveedor, la fecha, el concepto, la cuenta contable, el impuesto y el valor total coincidan con el soporte.
+          p Una empresa registra una factura de compra en el #[i software] contable. El sistema puede calcular el IVA, generar la cuenta por pagar y actualizar el inventario o gasto correspondiente. No obstante, antes de guardar el registro se debe verificar que el proveedor, la fecha, el concepto, la cuenta contable, el impuesto y el valor total coincidan con el soporte.
           br
           br
           p La herramienta facilita el registro, pero la calidad de la información depende de la revisión previa y del correcto ingreso de datos.
       Separador
       #t_5_8.titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2 5.8 Aplicación del #[i software] contable en el registro de operaciones
-      p.mb-5 El registro mediante software contable requiere configurar datos básicos e ingresar correctamente la información de cada operación, de acuerdo con sus soportes. El registro de una operación contable se desarrolla mediante la siguiente secuencia:
+      p.mb-5 El registro mediante #[i software] contable requiere configurar datos básicos e ingresar correctamente la información de cada operación, de acuerdo con sus soportes. El registro de una operación contable se desarrolla mediante la siguiente secuencia:
       .bg-4
         .px-5
           .row.justify-content-center.mb-5
@@ -924,7 +924,7 @@
             .col-xl.mb-4.mb-lg-0
               .caja-1.color-4.ajuste-7(data-aos="fade-right")
                 p La interpretación del caso es la siguiente:
-                p.mb-0 #[b Interpretación del caso:] la operación debe registrarse separando el gasto, el IVA, la retención y el valor neto por pagar. El cálculo y la verificación previa de estos valores evitan errores contables y tributarios. Aunque el software facilita el proceso, la calidad del registro depende de la correcta clasificación de las cuentas, la revisión de los soportes y la validación de los datos.
+                p.mb-0 #[b Interpretación del caso:] la operación debe registrarse separando el gasto, el IVA, la retención y el valor neto por pagar. El cálculo y la verificación previa de estos valores evitan errores contables y tributarios. Aunque el #[i software] facilita el proceso, la calidad del registro depende de la correcta clasificación de las cuentas, la revisión de los soportes y la validación de los datos.
             .col-xl-auto.col-md-9(data-aos="fade-left")
               figure
                 img(src='@/assets/curso/temas/t5/img45.jpg', alt='' style="width: 500px").m-auto

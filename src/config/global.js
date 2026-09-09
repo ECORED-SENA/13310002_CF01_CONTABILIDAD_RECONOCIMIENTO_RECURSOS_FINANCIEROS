@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Reconocimiento y registro de hechos económicos',
     Description:
-      'Este componente desarrolla conceptos y procedimientos para identificar hechos económicos, clasificar documentos soporte, aplicar la normativa comercial y contable, medir y registrar operaciones, calcular impuestos y utilizar software contable. Además, integra comprobantes y técnicas de medición financiera para organizar la información, reducir errores y fortalecer la formalización y gestión contable de los negocios.',
+      'Este componente desarrolla conceptos y procedimientos para identificar hechos económicos, clasificar documentos soporte, aplicar la normativa comercial y contable, medir y registrar operaciones, calcular impuestos y utilizar <i>software</i> contable. Además, integra comprobantes y técnicas de medición financiera para organizar la información, reducir errores y fortalecer la formalización y gestión contable de los negocios.',
     imagenBannerPrincipal: '@/assets/curso/portada/banner-principal.png',
     fondoBannerPrincipal: '@/assets/curso/portada/fondo-banner-principal.png',
     imagenesDecorativasBanner: [

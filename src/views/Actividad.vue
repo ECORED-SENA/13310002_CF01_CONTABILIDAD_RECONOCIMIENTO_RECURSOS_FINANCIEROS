@@ -22,7 +22,7 @@ export default {
       tema: 'Cuestionario de verificación sobre reconocimiento y registro de hechos económicos',
       titulo: 'Cuestionario',
       introduccion:
-        '<b>Objetivo:</b> Evaluar la comprensión de los conceptos y procedimientos relacionados con la identificación de hechos económicos, la clasificación de documentos soporte, la aplicación de la normativa comercial y contable, el reconocimiento y la medición de operaciones, el registro mediante partida doble, el diligenciamiento de comprobantes, el cálculo de valores económicos e impuestos y el uso básico de software contable.',
+        '<b>Objetivo:</b> evaluar la comprensión de los conceptos y procedimientos relacionados con la identificación de hechos económicos, la clasificación de documentos soporte, la aplicación de la normativa comercial y contable, el reconocimiento y la medición de operaciones, el registro mediante partida doble, el diligenciamiento de comprobantes, el cálculo de valores económicos e impuestos y el uso básico de software contable.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO',

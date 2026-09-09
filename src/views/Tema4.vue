@@ -169,7 +169,7 @@
       p.mb-5 Toda operación debe mantener la igualdad entre débitos y créditos. El siguiente video permite identificar las cuentas afectadas y aplicar la partida doble.
       figure(data-aos="zoom-in").mb-0
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/n48bVPiaOzg?si=YbRQzYSeCY71ltqt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video. Partida doble en acción: cómo registrar débitos y créditos
       Separador
       #t_4_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
