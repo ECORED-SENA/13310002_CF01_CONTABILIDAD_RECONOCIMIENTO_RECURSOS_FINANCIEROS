@@ -460,56 +460,43 @@ export default {
   referencias: [
     {
       referencia:
-        'Ayala Cárdenas, S. I. (2015). CONTABILIDAD BÁSICA GENERAL. Un enfoque administrativo y de control interno. Bogotá: Grafiweb, impresores, publicistas.',
+        'Ayala Cárdenas, S. I., & Fino Serrano, G. (2015). Contabilidad básica general: Un enfoque administrativo y de control interno. Corporación Universitaria Republicana.',
       link: '',
     },
     {
       referencia:
         'Cámara de Comercio de Bogotá. (s.f.). Información de Sociedades. Cámara de Comercio de Bogotá.',
-      link: 'https://www.ccb.org.co/servicios/crea-tu-empresa/constituye-tu-empresa/informacion-de-sociedades?utm',
+      link: 'https://www.ccb.org.co/servicios/crea-tu-empresa/constituye-tu-empresa/informacion-de-sociedades',
     },
     {
       referencia:
-        'Consejo de Normas Internacionales de Contabilidad. (18 de Noviembre de 2010). NIIF para las PYMES. Norma Internacional de Información Financiera para Pequeñas y Medianas Entidades.',
-      link: 'www.mef.gob.pe/contenidos/conta_publ/con_nor_co/vigentes/niif/NIIF_PYMES.pdf?utm',
+        'Contaduría General de la Nación. (2020). Marco conceptual para la preparación y presentación de información financiera de las entidades de gobierno (versión 2015.02, actualizada según la Resolución 167 de 2020).',
+      link: 'https://www.contaduria.gov.co/documents/20127/36035/Marco%2BConceptual%2BVersi%C3%B3n%2B2015.02.pdf/ef46d692-2418-77e4-4828-7aad47dbb3e2',
     },
     {
       referencia:
-        'Contaduría General de la Nación. (14 de Octubre de 2020). Marco Conceptual para la Preparación y Presentación de Información Financiera. Contaduría General de la Nación.',
-      link: 'www.contaduria.gov.co/documents/20127/47343/Anexo%2BResolución%2BNo.%2B167%2Bde%2B2020%2B-%2BMarco%2BConceptual%2BEntidades%2Bde%2BGobierno/2bbd74e0-8d11-9a69-271f-9a32687db8ae?utm',
+        'Contaduría General de la Nación. (2025, 25 de agosto). Norma de proceso contable y sistema documental contable.',
+      link: 'https://www.contaduria.gov.co/documents/d/guest/ANEXO%2BRESOLUCION%2B222%2BDE%2B2025%2B-%2B20250825_NormProcContable',
     },
     {
       referencia:
-        'Contaduría General de la Nación. (26 de Agosto de 2025). NORMA DE PROCESO CONTABLE Y SISTEMA DOCUMENTAL CONTABLE. Contaduría General de la Nación.',
-      link: 'www.contaduria.gov.co/documents/d/guest/ANEXO%2BRESOLUCION%2B222%2BDE%2B2025%2B-%2B20250825_NormProcContable?utm',
-    },
-    {
-      referencia: 'Dirección de Impuesto y Aduanas Nacionale. (s.f.). DIAN.',
-      link: 'https://www.dian.gov.co/Paginas/Vencimientos-tributarios-enero-2026.aspx?utm',
+        'Dirección de Impuestos y Aduanas Nacionales. (s. f.). Documento soporte con sujetos no obligados a expedir factura de venta o documento equivalente.',
+      link: 'https://www.dian.gov.co/impuestos/Paginas/Sistema-de-Factura-Electronica/Documento-Soporte-Adquisiciones-No-Obligados.aspx',
     },
     {
       referencia:
-        'Dirección de Impuesto y Aduanas Nacionales. (s.f.). Documento Soporte. DIAN.',
-      link: 'https://www.dian.gov.co/impuestos/Paginas/Sistema-de-Factura-Electronica/Documento-Soporte-Adquisiciones-No-Obligados.aspx?utm',
+        'Dirección de Impuestos y Aduanas Nacionales. (s. f.). ¿Qué es la factura electrónica?',
+      link: 'https://micrositios.dian.gov.co/sistema-de-facturacion-electronica/factura-electronica/',
     },
     {
       referencia:
-        'Dirección de Impuesto y Aduanas Nacionales. (s.f.). Micrositios Dian. DIAN. ¿Qué es Régimen Simple de Tributación – RST?:',
-      link: 'https://micrositios.dian.gov.co/regimen-simple-tributacion/?utm',
+        'Dirección de Impuestos y Aduanas Nacionales. (s. f.). ¿Qué es el Régimen Simple de Tributación (RST)?',
+      link: 'https://micrositios.dian.gov.co/regimen-simple-tributacion/',
     },
     {
       referencia:
-        'Dirección de Impuesto y Aduanas Nacionales. (s.f.). Sistema de factura Electrónica. Micrositios.dian.co.',
-      link: 'https://micrositios.dian.gov.co/sistema-de-facturacion-electronica/factura-electronica/?utm',
-    },
-    {
-      referencia: 'IFRS Foundation. (2025). IFRS for SMEs Accounting Standard.',
-      link: 'https://www.ifrs.org/issued-standards/ifrs-for-smes/',
-    },
-    {
-      referencia:
-        'IFRS Foundation. (s. f.). International Accounting Standards Board.',
-      link: 'https://www.ifrs.org/groups/international-accounting-standards-board/',
+        'Dirección de Impuestos y Aduanas Nacionales. (2026). Vencimientos tributarios de enero de 2026.',
+      link: 'https://www.dian.gov.co/Paginas/Vencimientos-tributarios-enero-2026.aspx',
     },
     {
       referencia:
@@ -518,32 +505,41 @@ export default {
     },
     {
       referencia:
-        'Molina Sánchez, H. (21 de Octubre de 2015). DIAN. Convergencia con las Normas Internacionales de Información Financiera (NIIF) en Colombia - Documento de Orientación Técnica 003.',
-      link: 'www.dian.gov.co/fizcalizacioncontrol/herramienconsulta/NIIF/Orientaciones%20CTCP/Documento3_Orientaciones_Tecnica_NIIF_para_las_Pymes_Marco.pdf?utm',
+        'IFRS Foundation. (s. f.). International Accounting Standards Board.',
+      link: 'https://www.ifrs.org/groups/international-accounting-standards-board/',
+    },
+    {
+      referencia: 'IFRS Foundation. (2025). IFRS for SMEs Accounting Standard.',
+      link: 'https://www.ifrs.org/issued-standards/ifrs-for-smes/',
     },
     {
       referencia:
-        'Molina Sánchez, H. (2015). Documento de orientación Técnica 003 - Marco conceptual.',
-      link: '',
+        'International Accounting Standards Board. (2009). Norma Internacional de Información Financiera para Pequeñas y Medianas Entidades (NIIF para las PYMES). IFRS Foundation.',
+      link: 'https://www.mef.gob.pe/contenidos/conta_publ/con_nor_co/vigentes/niif/NIIF_PYMES.pdf',
     },
     {
       referencia:
-        'Moreno F, J. (5 de Agosto de 2020). Contabilidad Financiera - Contabilidad Básica. S4learning (4ª. Ed.).',
-      link: 'chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://gc.scalahed.com/recursos/files/r161r/w25145w/Contabilidad_basica_4a_ed.pdf',
+        'Molina Sánchez, H. (2015). Documento de Orientación Técnica 003: Orientaciones técnicas sobre la aplicación de la NIIF para las PYMES. Marco conceptual. Consejo Técnico de la Contaduría Pública.',
+      link: 'https://www.dian.gov.co/fizcalizacioncontrol/herramienconsulta/NIIF/Orientaciones%20CTCP/Documento3_Orientaciones_Tecnica_NIIF_para_las_Pymes_Marco.pdf',
     },
     {
       referencia:
-        'Presidencia de la República de Colombia. (27 de Marzo de 1971). Decreto 410. Secretaría del Senado.',
+        'Moreno Fernández, J. A. (2014). Contabilidad básica (4.ª ed.). Grupo Editorial Patria.',
+      link: 'https://books.google.com.ec/books?id=X9bhBAAAQBAJ',
+    },
+    {
+      referencia:
+        'Presidencia de la República de Colombia. (1971, 27 de marzo). Decreto 410 de 1971, por el cual se expide el Código de Comercio. Secretaría del Senado.',
       link: 'http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html',
     },
     {
       referencia:
-        'Ramirez E, H. (2012). Guía NIIF para Pymes - Norma Internacional de Información Financiera para Pymes. unilibre.edu.co:',
-      link: 'https://repository.unilibre.edu.co/bitstream/handle/10901/24681/Libro%20Gu¡a%20NIIF%20para%20Pymes.pdf?utm',
+        'Ramírez Echeverry, H. F., & Suárez Balaguera, L. E. (2012). Guía NIIF para PYMES: Norma Internacional de Información Financiera para Pymes. Universidad Libre.',
+      link: 'https://repository.unilibre.edu.co/items/e597b737-9107-4549-9723-66f5ee4b2377',
     },
     {
       referencia:
-        'Universidad Nacional de Colombia. (29 de Julio de 2014). Guía Reconocimiento Contable. gerencia.unal.edu.co:',
+        'Universidad Nacional de Colombia. (2014, 29 de julio). Guía de reconocimiento contable.',
       link: 'https://gerencia.unal.edu.co/fileadmin/user_upload/CON_2_GU_reconocimiento_contable_D.pdf',
     },
   ],
